@@ -1,0 +1,9 @@
+{
+  "student_age": 21,
+  "student_city": "cbe",
+  "marks": {
+    "english": "50",
+    "tamil": "50"
+  },
+  "student_name": "naga"
+}
