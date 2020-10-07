@@ -1,6 +1,16 @@
 {
   "student_age": 21,
   "student_city": "cbe",
+  "family": [
+    {
+      "age": 50,
+      "role": "Father"
+    },
+    {
+      "age": 45,
+      "role": "mother"
+    }
+  ],
   "marks": {
     "english": "50",
     "tamil": "50"
